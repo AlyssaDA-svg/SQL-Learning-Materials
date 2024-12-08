@@ -1,2 +1,3 @@
 # SQL-Learning-Materials
-I complied here the resources I've used learning SQL.
+Compilation of the resources i used while learning SQL.
+SQL Tool I used: MySQL workbeanch
